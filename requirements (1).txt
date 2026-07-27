@@ -1,6 +1,6 @@
-streamlit
+streamlit==1.46.1
+numpy
 scikit-learn
 opencv-python-headless
-numpy
 Pillow
 joblib
